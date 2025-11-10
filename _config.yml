@@ -1,0 +1,33 @@
+title: viberekruit.ai
+description: AI-Native Recruitment Platform
+url: "https://yourusername.github.io"
+baseurl: "/viberekruit.ai"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Custom variables
+company:
+  name: viberekruit.ai
+  tagline: "Intelligence-Driven Talent Acquisition"
+  email: hello@viberekruit.ai
+  github: viberekruit
+  linkedin: viberekruit
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Solutions
+    url: /solutions
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
